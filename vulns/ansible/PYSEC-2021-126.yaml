@@ -6,7 +6,8 @@ details: A flaw was found in Ansible if an ansible user sets ANSIBLE_ASYNC_DIR t
   affects Ansible Tower 3.7 and Ansible Automation Platform 1.2.
 aliases:
 - CVE-2021-3533
-modified: '2022-11-10T04:31:24.270376Z'
+modified: "2026-11-09T03:26:00Z"
+withdrawn: "2026-11-09T03:26:00Z"
 published: '2021-06-09T12:15:00Z'
 references:
 - type: REPORT
